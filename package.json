@@ -1,7 +1,7 @@
 {
   "name": "pronto",
   "version": "1.0.0",
-  "description": "",
+  "description": "website for Pronto Education Services Pvt Ltd",
   "main": "index.js",
   "scripts": {
   	"start": "node index.js"
@@ -17,6 +17,10 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/gyrogrid/onwards"
   },
   "author": "",
   "license": "ISC"
